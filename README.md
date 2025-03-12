@@ -1,1 +1,1 @@
-# practica-1
+Este programa se base en el metodo de montacrlo para aproximar el número pi por eso se genera dos cordenadas que van a estar dentro de un circulo en el que mediante el metodo de montecarlo se aproxima el número pi como se puede ver al ejecutar el programa 
